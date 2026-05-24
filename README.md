@@ -1,25 +1,47 @@
-# Guilherme Alves Souza
+# Olá! Eu sou Guilherme 👋
 
-> Portfólio — Network Operations Center | Cibersegurança | Desenvolvimento
-
-## 👨‍💻 Sobre mim
-Atuo em **Network Operations Center (NOC)** com foco em **cibersegurança**.  
-Tenho experiência em **C**, **Python** e **C#**.  
-Sou **estudante de Sistemas de Informação** e busco aprimorar minhas habilidades técnicas em segurança e desenvolvimento de software.
-
+💻 Analista de Cibersegurança I  
+🔐 Focado em Segurança da Informação  
+🐧 Usuário Linux Ubuntu  
+📚 Estudante de TI e apaixonado por tecnologia  
 
 ---
 
-## 🛠 Habilidades
-- **Linguagens:** C, Python, C#  
-- **Áreas:** Segurança da Informação, Monitoramento de Redes, Desenvolvimento de Sistemas e backup.
-- **Ferramentas:** Git, Linux, Scripts de Automação  
+## 🚀 Tecnologias & Conhecimentos
+
+### 💻 Linguagens
+- C
+- C#
+- Java
+- Python
+
+### 🛡️ Segurança & Infraestrutura
+- Redes
+- Cybersecurity
+- Backup
+- ISO 27001
+- Git/GitHub
+
+### 🌐 Ferramentas & Plataformas
+- Cisco
+- Fortinet
+- Linux
 
 ---
 
-## 📬 Contato
-- E-mail: gui240706@gmail.com  
-- **LinkedIn:** www.linkedin.com/in/guilherme-alves-55269027a  
+## 📌 Áreas de Interesse
+
+🔹 Segurança da Informação  
+🔹 Infraestrutura de Redes  
+🔹 Desenvolvimento de Software  
+🔹 Hardening e Monitoramento  
+🔹 Automação e Tecnologia  
+
+---
+
+## 📫 Contato
+
+- GitHub: https://github.com/0-gui-0
 
 
 
