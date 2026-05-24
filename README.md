@@ -49,6 +49,6 @@ Atuo na área de cibersegurança com foco em proteção de dados, análise de am
 ---
 
 ## 🟢 CONTATO
-* 📧 **E-mail:** guilherme@exemplo.com
+* 📧 **E-mail:** gui240706@gmail.com
 * 💼 **LinkedIn:** [in/guilherme-alves](https://linkedin.com/in/guilherme-alves)
 * 🐙 **GitHub:** [github.com/0-gui-0](https://github.com/0-gui-0)
